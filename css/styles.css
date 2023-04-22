@@ -1,0 +1,20 @@
+.parent {
+  min-height: 80vh;
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.left-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  min-height: 50vh;
+}
+
+.right-container {
+  min-height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
